@@ -1,9 +1,44 @@
-Loại,Số lượng
-Facebook_Tích cực,243
-Facebook_Tiêu cực,269
-Facebook_Trung tính,488
-Twitter_Tích cực,236
-Twitter_Tiêu cực,235
-Twitter_Trung tính,429
-,
-So sánh tích cực FB/TW,Facebook có nhiều bình luận tích cực hơn Twitter
+['--- BÁO CÁO THỐNG KÊ ---']
+['Kích thước Facebook: (1000, 2)']
+['Kích thước Twitter:  (900, 2)']
+['']
+['--- PHÂN LOẠI SENTIMENT ---']
+['FB_Pos: 243']
+['FB_Neg: 269']
+['FB_Neu: 488']
+['TW_Pos: 236']
+['TW_Neg: 235']
+['TW_Neu: 429']
+['']
+['--- BROADCASTING DELTA FB - TW ---']
+['Số điểm lệch mạnh > 0.5: 517']
+['']
+['--- THỐNG KÊ GIÁ TRỊ FB ---']
+['Mean: -0.0195']
+['Std:  0.5840']
+['Median: -0.0065']
+['Min: -0.9910']
+['Max: 0.9990']
+['']
+['--- THỐNG KÊ GIÁ TRỊ TW ---']
+['Mean: 0.0187']
+['Std:  0.5869']
+['Median: 0.0460']
+['Min: -0.9900']
+['Max: 0.9990']
+['']
+['--- TOP 20 TÍCH CỰC / TIÊU CỰC FB ---']
+['Top 20 tích cực FB: [0.999 0.994 0.993 0.986 0.981 0.98  0.975 0.974 0.973 0.972 0.971 0.97\n 0.969 0.965 0.96  0.952 0.949 0.946 0.944 0.94 ]']
+['Top 20 tiêu cực FB: [-0.991 -0.99  -0.989 -0.986 -0.982 -0.978 -0.977 -0.976 -0.974 -0.971\n -0.969 -0.967 -0.964 -0.963 -0.961 -0.96  -0.959 -0.955 -0.953 -0.951]']
+['']
+['--- TOP 20 TÍCH CỰC / TIÊU CỰC TW ---']
+['Top 20 tích cực TW: [0.999 0.996 0.994 0.993 0.99  0.988 0.985 0.984 0.983 0.982 0.976 0.975\n 0.973 0.969 0.968 0.967 0.962 0.96  0.954 0.952]']
+['Top 20 tiêu cực TW: [-0.99  -0.988 -0.987 -0.985 -0.981 -0.98  -0.978 -0.977 -0.976 -0.964\n -0.962 -0.958 -0.957 -0.956 -0.953 -0.951 -0.949 -0.948 -0.942 -0.94 ]']
+['']
+['--- SO SÁNH SENTIMENT 3 MỨC ---']
+['FB_Pos vs TW_Pos', 'FB>TW']
+['FB_Neg vs TW_Neg', 'FB>TW']
+['FB_Neu vs TW_Neu', 'FB>TW']
+['']
+['--- KẾT LUẬN TÍCH CỰC FB/TW ---']
+['Facebook có nhiều bình luận tích cực hơn Twitter']
